@@ -28,3 +28,5 @@ A lot of work is available on the internet, here I gather some of it:
 - https://warwick.ac.uk/fac/cross_fac/eduport/edufund/projects/yang/projects/a-lean-dataset-for-international-math-olympiad-small-steps-towards-writing-math-proofs-for-36b83d/ dataset for IMO for AI training.
 - https://arxiv.org/html/2507.15225v1 a way to solve IMO problems via decomposition.
 - https://deepmind.google/ main Google page, recall that AlphaProof is a benchmark for the AI solver.
+- https://github.com/deepseek-ai/DeepSeek-Prover-V2 AI prover using DeepSeek.
+- https://arxiv.org/html/2503.03238v1 framework to detect mathematical reasonings.
