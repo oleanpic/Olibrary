@@ -16,3 +16,10 @@ We do not want to specifically exclude any particular lemma, since we are aware 
 - Highly specialized lemmata requiring complex, long proofs that would be impossible to present for a human candidate during the competition.
 - The general criterion is "would it be realistic that a candidate could use a lemma during the competition, including its proof in case such lemma is not well-known or in the syllabi?" If the answer is no, then such lemma should be avoided.
 
+## Available sources
+A lot of work is available on the internet, here I gather some of it:
+- https://github.com/dwrensha/compfiles lists various problems and solutions in Lean4 for IMO, USAMO and other mathematical competitions.
+- https://imo-grand-challenge.github.io/ the classical well-known challenge to build an AI that can win a gold medal in the competition. Of course, this project is part of this challenge.
+- https://github.com/leanprover-community/mathlib4/tree/master/Archive/Imo archive of a few problems.
+- https://github.com/jsm28/IMOLean/tree/main
+- https://github.com/roozbeh-yz/IMO-Steps the closest to ours, it covers some "building blocks" of IMO problems.
