@@ -23,3 +23,8 @@ A lot of work is available on the internet, here I gather some of it:
 - https://github.com/leanprover-community/mathlib4/tree/master/Archive/Imo archive of a few problems.
 - https://github.com/jsm28/IMOLean/tree/main
 - https://github.com/roozbeh-yz/IMO-Steps the closest to ours, it covers some "building blocks" of IMO problems.
+- https://arxiv.org/html/2508.14644v1 paper about formalizing Geometry problems in Lean4.
+- https://www.youtube.com/playlist?list=PLCX7V9VYd16cpuYoH_affUDbusZMGN05p set of videos regarding formalization.
+- https://warwick.ac.uk/fac/cross_fac/eduport/edufund/projects/yang/projects/a-lean-dataset-for-international-math-olympiad-small-steps-towards-writing-math-proofs-for-36b83d/ dataset for IMO for AI training.
+- https://arxiv.org/html/2507.15225v1 a way to solve IMO problems via decomposition.
+- https://deepmind.google/ main Google page, recall that AlphaProof is a benchmark for the AI solver.
